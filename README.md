@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mihirjoshi-columbia
+- 👀 I’m interested in Statistical Analysis and Quant!
+- 🌱 I’m currently learning C++, OCaml, and React
