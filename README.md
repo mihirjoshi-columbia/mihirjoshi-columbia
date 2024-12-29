@@ -3,7 +3,6 @@
 ###
 
 <p align="left">My name is Mihir Joshi and I'm a student @ Columbia intially from the PNW</p>
-###
 
 <h2 align="left">About me</h2>
 
