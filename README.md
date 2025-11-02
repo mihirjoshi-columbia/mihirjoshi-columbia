@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Super interested in Systems Programming<br>📚 I'm currently learning C++, Vimscript, OCaml<br></p>
+<p align="left">Super interested in Systems Programming<br>📚 I'm currently learning C++, Vimscript, Rust<br></p>
 
 ###
 
